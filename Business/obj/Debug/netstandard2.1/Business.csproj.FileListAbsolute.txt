@@ -1,0 +1,15 @@
+/Users/momerst/Projects/ReCapProject/Business/bin/Debug/netstandard2.1/Business.deps.json
+/Users/momerst/Projects/ReCapProject/Business/bin/Debug/netstandard2.1/Business.dll
+/Users/momerst/Projects/ReCapProject/Business/bin/Debug/netstandard2.1/Business.pdb
+/Users/momerst/Projects/ReCapProject/Business/bin/Debug/netstandard2.1/DataAccess.dll
+/Users/momerst/Projects/ReCapProject/Business/bin/Debug/netstandard2.1/Entities.dll
+/Users/momerst/Projects/ReCapProject/Business/bin/Debug/netstandard2.1/Entities.pdb
+/Users/momerst/Projects/ReCapProject/Business/bin/Debug/netstandard2.1/DataAccess.pdb
+/Users/momerst/Projects/ReCapProject/Business/obj/Debug/netstandard2.1/Business.csproj.AssemblyReference.cache
+/Users/momerst/Projects/ReCapProject/Business/obj/Debug/netstandard2.1/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/momerst/Projects/ReCapProject/Business/obj/Debug/netstandard2.1/Business.AssemblyInfoInputs.cache
+/Users/momerst/Projects/ReCapProject/Business/obj/Debug/netstandard2.1/Business.AssemblyInfo.cs
+/Users/momerst/Projects/ReCapProject/Business/obj/Debug/netstandard2.1/Business.csproj.CoreCompileInputs.cache
+/Users/momerst/Projects/ReCapProject/Business/obj/Debug/netstandard2.1/Business.csproj.CopyComplete
+/Users/momerst/Projects/ReCapProject/Business/obj/Debug/netstandard2.1/Business.dll
+/Users/momerst/Projects/ReCapProject/Business/obj/Debug/netstandard2.1/Business.pdb

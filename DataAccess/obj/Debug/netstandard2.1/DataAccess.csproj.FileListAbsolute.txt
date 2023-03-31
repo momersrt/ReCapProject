@@ -1,0 +1,13 @@
+/Users/momerst/Projects/ReCapProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.deps.json
+/Users/momerst/Projects/ReCapProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.dll
+/Users/momerst/Projects/ReCapProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.pdb
+/Users/momerst/Projects/ReCapProject/DataAccess/bin/Debug/netstandard2.1/Entities.dll
+/Users/momerst/Projects/ReCapProject/DataAccess/bin/Debug/netstandard2.1/Entities.pdb
+/Users/momerst/Projects/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.AssemblyReference.cache
+/Users/momerst/Projects/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/momerst/Projects/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.AssemblyInfoInputs.cache
+/Users/momerst/Projects/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.AssemblyInfo.cs
+/Users/momerst/Projects/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.CoreCompileInputs.cache
+/Users/momerst/Projects/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.CopyComplete
+/Users/momerst/Projects/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.dll
+/Users/momerst/Projects/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.pdb
